@@ -1,0 +1,14 @@
+C:\Users\יעל\Desktop\Studies\.NET Core\MODELS\bin\Debug\net8.0\MODELS.deps.json
+C:\Users\יעל\Desktop\Studies\.NET Core\MODELS\bin\Debug\net8.0\MODELS.runtimeconfig.json
+C:\Users\יעל\Desktop\Studies\.NET Core\MODELS\bin\Debug\net8.0\MODELS.dll
+C:\Users\יעל\Desktop\Studies\.NET Core\MODELS\bin\Debug\net8.0\MODELS.pdb
+C:\Users\יעל\Desktop\Studies\.NET Core\MODELS\obj\Debug\net8.0\MODELS.csproj.AssemblyReference.cache
+C:\Users\יעל\Desktop\Studies\.NET Core\MODELS\obj\Debug\net8.0\MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\יעל\Desktop\Studies\.NET Core\MODELS\obj\Debug\net8.0\MODELS.AssemblyInfoInputs.cache
+C:\Users\יעל\Desktop\Studies\.NET Core\MODELS\obj\Debug\net8.0\MODELS.AssemblyInfo.cs
+C:\Users\יעל\Desktop\Studies\.NET Core\MODELS\obj\Debug\net8.0\MODELS.csproj.CoreCompileInputs.cache
+C:\Users\יעל\Desktop\Studies\.NET Core\MODELS\obj\Debug\net8.0\MODELS.dll
+C:\Users\יעל\Desktop\Studies\.NET Core\MODELS\obj\Debug\net8.0\refint\MODELS.dll
+C:\Users\יעל\Desktop\Studies\.NET Core\MODELS\obj\Debug\net8.0\MODELS.pdb
+C:\Users\יעל\Desktop\Studies\.NET Core\MODELS\obj\Debug\net8.0\MODELS.genruntimeconfig.cache
+C:\Users\יעל\Desktop\Studies\.NET Core\MODELS\obj\Debug\net8.0\ref\MODELS.dll
