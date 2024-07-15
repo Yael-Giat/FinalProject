@@ -21,16 +21,10 @@ namespace DAL.Data
             _mapper = mapper;
         }
 
-        public async Task<List<User>> GetAllUsers()
+        public async Task<User> GetUserByPasswordAndEmail(string password, string email)
         {
-            return await _usersCollection.Find(_ => true).ToListAsync();
+            return await _usersCollection.Find(u => u.password == password && u.email == email).FirstOrDefaultAsync();
         }
-
-        public async Task<User> GetUserById(string id)
-        {
-            return await _usersCollection.Find(u => u.id == id).FirstOrDefaultAsync();
-        }
-
         public async Task<User> GetUserByEmail(string email)
         {
             return await _usersCollection.Find(u => u.email == email).FirstOrDefaultAsync();
@@ -42,14 +36,20 @@ namespace DAL.Data
             return true;
         }
 
-        public async Task UpdateUser(string id, UserDTO user)
+        public async Task<bool> UpdateUser(string id, UserDTO user)
         {
             await _usersCollection.ReplaceOneAsync(u => u.id == id, _mapper.Map<User>(user));
+            return true;
         }
 
-        public async Task DeleteUser(string id)
+        public async Task<bool> DeleteUser(string id)
         {
             await _usersCollection.DeleteOneAsync(u => u.id == id);
+            return true;
         }
+        //public async Task<List<User>> GetAllUsers()
+        //{
+        //    return await _usersCollection.Find(_ => true).ToListAsync();
+        //}
     }
 }

@@ -3,14 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5BFBF83-6FE4-49E4-8C30-260C6068194E}|..\\MODELS\\MODELS.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEB5B9B1-A508-471F-BD97-B8165D167681}|..\\DAL\\DAL.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\dal\\interfaces\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEB5B9B1-A508-471F-BD97-B8165D167681}|..\\DAL\\DAL.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\dal\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEB5B9B1-A508-471F-BD97-B8165D167681}|..\\DAL\\DAL.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\dal\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -19,11 +19,15 @@
       "AbsoluteMoniker": "D:0:0:{CEB5B9B1-A508-471F-BD97-B8165D167681}|..\\DAL\\DAL.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\dal\\profiles\\profilesproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEB5B9B1-A508-471F-BD97-B8165D167681}|..\\DAL\\DAL.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\dal\\interfaces\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5BFBF83-6FE4-49E4-8C30-260C6068194E}|..\\MODELS\\MODELS.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4AB6FAE-1427-4636-9653-D0E72B385C00}|..\\BL\\BL.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\bl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -34,10 +38,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5BFBF83-6FE4-49E4-8C30-260C6068194E}|..\\MODELS\\MODELS.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,35 +47,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\MODELS\\User.cs",
-              "RelativeDocumentMoniker": "..\\MODELS\\User.cs",
-              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\MODELS\\User.cs",
-              "RelativeToolTip": "..\\MODELS\\User.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAowAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T10:51:29.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\BL\\User.cs",
               "RelativeDocumentMoniker": "..\\BL\\User.cs",
@@ -87,27 +67,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "IUserInterface.cs",
               "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\DAL\\Interfaces\\IUserInterface.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Interfaces\\IUserInterface.cs",
               "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\DAL\\Interfaces\\IUserInterface.cs",
               "RelativeToolTip": "..\\DAL\\Interfaces\\IUserInterface.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T10:18:12.649Z"
+              "WhenOpened": "2024-07-15T10:18:12.649Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\Project\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\Project\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T10:18:25.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UserData.cs",
               "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\DAL\\Data\\UserData.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Data\\UserData.cs",
               "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\DAL\\Data\\UserData.cs",
               "RelativeToolTip": "..\\DAL\\Data\\UserData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T10:18:07.383Z"
+              "WhenOpened": "2024-07-15T10:18:07.383Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -119,7 +114,8 @@
               "RelativeToolTip": "..\\DAL\\PROFILES\\ProFilesProj.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T10:26:20.144Z"
+              "WhenOpened": "2024-07-15T10:26:20.144Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -131,17 +127,18 @@
               "RelativeToolTip": "..\\DAL\\DTO\\UserDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T10:18:10.449Z"
+              "WhenOpened": "2024-07-15T10:18:10.449Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\Project\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\Project\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAA6wDEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T10:21:56.999Z",
               "EditorCaption": ""
@@ -154,13 +151,35 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\Project\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwDAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T10:18:26.972Z"
+              "WhenOpened": "2024-07-15T10:18:26.972Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\MODELS\\User.cs",
+              "RelativeDocumentMoniker": "..\\MODELS\\User.cs",
+              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\MODELS\\User.cs",
+              "RelativeToolTip": "..\\MODELS\\User.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA7wAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:51:29.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MongoDBSettings.cs",
               "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\MODELS\\MongoDBSettings.cs",
               "RelativeDocumentMoniker": "..\\MODELS\\MongoDBSettings.cs",
@@ -172,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\Project\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -181,18 +200,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-15T10:18:24.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\Project\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\Project\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-15T10:18:25.416Z"
             }
           ]
         }

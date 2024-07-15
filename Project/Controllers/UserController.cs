@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using DAL.Interfaces;
 using DAL.DTO;
+using MODELS;
 
 namespace Project.Controllers
 {
@@ -22,6 +23,27 @@ namespace Project.Controllers
                 return Ok();
             return BadRequest();
 
+        }
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Put(string id, [FromBody] UserDTO value)
+        {
+            bool create = await _dbUser.UpdateUser(id,value);
+            if (create)
+                return Ok();
+            return BadRequest();
+        }
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(string id)
+        {
+            bool create = await _dbUser.DeleteUser(id);
+            if (create)
+                return Ok();
+            return BadRequest();
+        }
+        [HttpGet("{password}/{email}")]
+        public async Task<User> Get(string password,string email)
+        {
+            return await _dbUser.GetUserByPasswordAndEmail(password,email);
         }
     }
 }

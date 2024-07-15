@@ -36,6 +36,17 @@ namespace Project
             builder.Services.AddControllers();
             builder.Services.AddScoped<IUserInterface, UserData>();
 
+            // Add CORS service
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAll", builder =>
+                {
+                    builder.AllowAnyOrigin()
+                           .AllowAnyMethod()
+                           .AllowAnyHeader();
+                });
+            });
+
             // Add Swagger configuration
             builder.Services.AddSwaggerGen(c =>
             {
