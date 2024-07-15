@@ -9,14 +9,14 @@ namespace DAL.DTO
 {
     public class UserDTO
     {
-        public string Id { get; set; }
+        public String id { get; set; }
 
-        public string Name { get; set; }
+        public String name { get; set; }
 
-        public string Password { get; set; }
+        public String password { get; set; }
 
-        public string Email { get; set; }
+        public String email { get; set; }
 
-        public string Phone { get; set; }
+        public String phone { get; set; }
     }
 }

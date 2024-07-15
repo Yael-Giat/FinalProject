@@ -1,10 +1,16 @@
 using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.OpenApi.Models;
+using Microsoft.Extensions.Hosting;
 using MongoDB.Driver;
+using Microsoft.OpenApi.Models;
 using DAL.Interfaces;
 using DAL.Data;
+using DAL.PROFILES;
+using AutoMapper;
 using MODELS;
+using System.Globalization;
 
 namespace Project
 {
@@ -21,15 +27,14 @@ namespace Project
 
             // Configure MongoDB client and database
             var mongoClient = new MongoClient(connectionString);
+            var mongoDatabase = mongoClient.GetDatabase(databaseName);
 
-            // Register MongoDB services
+            // Add services to the container.
             builder.Services.AddSingleton<IMongoClient>(mongoClient);
-            builder.Services.AddSingleton<IMongoDatabase>(mongoClient.GetDatabase(databaseName));
-
-            // Register UserData as IUserInterface implementation
-            builder.Services.AddSingleton<IUserInterface, UserData>();
-
+            builder.Services.AddSingleton(mongoDatabase);
+            builder.Services.AddSingleton(databaseName); // Add this line
             builder.Services.AddControllers();
+            builder.Services.AddScoped<IUserInterface, UserData>();
 
             // Add Swagger configuration
             builder.Services.AddSwaggerGen(c =>
@@ -37,6 +42,8 @@ namespace Project
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Your API", Version = "v1" });
             });
 
+            // Configure AutoMapper using explicit namespace
+            builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

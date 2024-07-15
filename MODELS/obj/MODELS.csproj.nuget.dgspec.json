@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\יעל\\Desktop\\Studies\\.NET Core\\MODELS\\MODELS.csproj": {}
+    "C:\\Users\\יעל\\Desktop\\FinalProject\\MODELS\\MODELS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\יעל\\Desktop\\Studies\\.NET Core\\MODELS\\MODELS.csproj": {
+    "C:\\Users\\יעל\\Desktop\\FinalProject\\MODELS\\MODELS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\יעל\\Desktop\\Studies\\.NET Core\\MODELS\\MODELS.csproj",
+        "projectUniqueName": "C:\\Users\\יעל\\Desktop\\FinalProject\\MODELS\\MODELS.csproj",
         "projectName": "MODELS",
-        "projectPath": "C:\\Users\\יעל\\Desktop\\Studies\\.NET Core\\MODELS\\MODELS.csproj",
+        "projectPath": "C:\\Users\\יעל\\Desktop\\FinalProject\\MODELS\\MODELS.csproj",
         "packagesPath": "C:\\Users\\יעל\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\יעל\\Desktop\\Studies\\.NET Core\\MODELS\\obj\\",
+        "outputPath": "C:\\Users\\יעל\\Desktop\\FinalProject\\MODELS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

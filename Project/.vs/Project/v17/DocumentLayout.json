@@ -1,37 +1,43 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\Studies\\.NET Core\\Project\\",
+  "WorkspaceRootPath": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\studies\\.net core\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEB5B9B1-A508-471F-BD97-B8165D167681}|..\\DAL\\DAL.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\studies\\.net core\\dal\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEB5B9B1-A508-471F-BD97-B8165D167681}|..\\DAL\\DAL.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\studies\\.net core\\dal\\interfaces\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\studies\\.net core\\project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\studies\\.net core\\project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F5BFBF83-6FE4-49E4-8C30-260C6068194E}|..\\MODELS\\MODELS.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB5B9B1-A508-471F-BD97-B8165D167681}|..\\DAL\\DAL.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\dal\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB5B9B1-A508-471F-BD97-B8165D167681}|..\\DAL\\DAL.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\dal\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB5B9B1-A508-471F-BD97-B8165D167681}|..\\DAL\\DAL.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\dal\\profiles\\profilesproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB5B9B1-A508-471F-BD97-B8165D167681}|..\\DAL\\DAL.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\dal\\interfaces\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AB6FAE-1427-4636-9653-D0E72B385C00}|..\\BL\\BL.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\bl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BFBF83-6FE4-49E4-8C30-260C6068194E}|..\\MODELS\\MODELS.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\finalproject\\project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5BFBF83-6FE4-49E4-8C30-260C6068194E}|..\\MODELS\\MODELS.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\studies\\.net core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5BFBF83-6FE4-49E4-8C30-260C6068194E}|..\\MODELS\\MODELS.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\studies\\.net core\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEB5B9B1-A508-471F-BD97-B8165D167681}|..\\DAL\\DAL.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\studies\\.net core\\dal\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|c:\\users\\\u05D9\u05E2\u05DC\\desktop\\studies\\.net core\\project\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{177562BB-76A6-4F94-98B6-731ED94B43B9}|Project.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,118 +47,152 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\Studies\\.NET Core\\Project\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\Studies\\.NET Core\\Project\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T13:02:04.853Z"
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserData.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\Studies\\.NET Core\\DAL\\Data\\UserData.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Data\\UserData.cs",
-              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\Studies\\.NET Core\\DAL\\Data\\UserData.cs",
-              "RelativeToolTip": "..\\DAL\\Data\\UserData.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDUAAAAAAAAA",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\MODELS\\User.cs",
+              "RelativeDocumentMoniker": "..\\MODELS\\User.cs",
+              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\MODELS\\User.cs",
+              "RelativeToolTip": "..\\MODELS\\User.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T15:16:58.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\Studies\\.NET Core\\Project\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\Studies\\.NET Core\\Project\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T20:05:17.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T10:51:29.763Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\Studies\\.NET Core\\DAL\\DTO\\UserDTO.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\DTO\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\Studies\\.NET Core\\DAL\\DTO\\UserDTO.cs",
-              "RelativeToolTip": "..\\DAL\\DTO\\UserDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\BL\\User.cs",
+              "RelativeDocumentMoniker": "..\\BL\\User.cs",
+              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\BL\\User.cs",
+              "RelativeToolTip": "..\\BL\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T08:52:34.357Z"
+              "WhenOpened": "2024-07-15T10:25:20.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserInterface.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\DAL\\Interfaces\\IUserInterface.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Interfaces\\IUserInterface.cs",
+              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\DAL\\Interfaces\\IUserInterface.cs",
+              "RelativeToolTip": "..\\DAL\\Interfaces\\IUserInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:18:12.649Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IUserInterface.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\Studies\\.NET Core\\DAL\\Interfaces\\IUserInterface.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Interfaces\\IUserInterface.cs",
-              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\Studies\\.NET Core\\DAL\\Interfaces\\IUserInterface.cs",
-              "RelativeToolTip": "..\\DAL\\Interfaces\\IUserInterface.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAowBUAAAAAAAAA",
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\DAL\\Data\\UserData.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Data\\UserData.cs",
+              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\DAL\\Data\\UserData.cs",
+              "RelativeToolTip": "..\\DAL\\Data\\UserData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T15:15:12.45Z",
+              "WhenOpened": "2024-07-15T10:18:07.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProFilesProj.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\DAL\\PROFILES\\ProFilesProj.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\PROFILES\\ProFilesProj.cs",
+              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\DAL\\PROFILES\\ProFilesProj.cs",
+              "RelativeToolTip": "..\\DAL\\PROFILES\\ProFilesProj.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:26:20.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\DAL\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\DAL\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "..\\DAL\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:18:10.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\Project\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\Project\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:21:56.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:18:26.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "MongoDBSettings.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\Studies\\.NET Core\\MODELS\\MongoDBSettings.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\MODELS\\MongoDBSettings.cs",
               "RelativeDocumentMoniker": "..\\MODELS\\MongoDBSettings.cs",
-              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\Studies\\.NET Core\\MODELS\\MongoDBSettings.cs",
+              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\MODELS\\MongoDBSettings.cs",
               "RelativeToolTip": "..\\MODELS\\MongoDBSettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T18:32:34.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\Studies\\.NET Core\\MODELS\\User.cs",
-              "RelativeDocumentMoniker": "..\\MODELS\\User.cs",
-              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\Studies\\.NET Core\\MODELS\\User.cs",
-              "RelativeToolTip": "..\\MODELS\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T16:28:10.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\Studies\\.NET Core\\Project\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\Studies\\.NET Core\\Project\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-09T15:50:12.669Z"
+              "WhenOpened": "2024-07-15T10:18:15.477Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\Studies\\.NET Core\\Project\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\Studies\\.NET Core\\Project\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\Project\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\Project\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-11T21:39:44.495Z"
+              "WhenOpened": "2024-07-15T10:18:24.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\Project\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\\u05D9\u05E2\u05DC\\Desktop\\FinalProject\\Project\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T10:18:25.416Z"
             }
           ]
         }

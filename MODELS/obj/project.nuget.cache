@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i2hcbu+RRIU=",
+  "dgSpecHash": "hWNv/WZBbb8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\יעל\\Desktop\\Studies\\.NET Core\\MODELS\\MODELS.csproj",
+  "projectFilePath": "C:\\Users\\יעל\\Desktop\\FinalProject\\MODELS\\MODELS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\יעל\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\יעל\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
